@@ -1,3 +1,4 @@
 function fn () {
-  alert(123)
+  console.log(123);
+  alert(456)
 }
